@@ -2,6 +2,10 @@ body {
     background-color: green;
 }
 
+header {
+    border: 3px dashed red; 
+}
+
 h1 {
     color: goldenrod;
 }
